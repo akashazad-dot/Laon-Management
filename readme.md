@@ -9,9 +9,9 @@ An meteore app built for easy loan request with admin panel for better managemen
 ## Demo
 live link - https://rudransh-mergerware.meteorapp.com/
 
-![Admin](./imports/assets/admin_view.png)
-![Borrower](./imports/assets/borrower_view.png)
-![Lender](./imports/assets/lender_view.png)
+![Admin](./imports/assets/admin.png)
+![Borrower](./imports/assets/borrower.png)
+![Lender](./imports/assets/lenderpng)
 
 ## Setup
 
