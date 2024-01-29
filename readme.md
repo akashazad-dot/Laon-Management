@@ -1,7 +1,7 @@
 
 
 ## Demo
-live link - https://rudransh-mergerware.meteorapp.com/
+live link - https://akash-verma-mergerware-assignment.meteorapp.com
 
 
 ![Admin](./imports/assets/Admin.PNG)
