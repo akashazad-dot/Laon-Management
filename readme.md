@@ -1,13 +1,7 @@
-```bash
-  Note- App is hosted on Galaxy cloud , it may take time to process
-```
-# EasyLone
-
-An meteore app built for easy loan request with admin panel for better management and real time updation .
 
 
-## Demo
-live link - https://rudransh-mergerware.meteorapp.com/
+
+
 
 ![Admin](./imports/assets/Admin.PNG)
 ![Borrower](./imports/assets/Borrower.PNG)
@@ -51,7 +45,7 @@ Starting the meteor app
 ```
 
 
-note - mongoDB is inbuilt , to access  add  url 'mongodb://127.0.0.1:3001/meteor' in mongoDb compass
+
 
 Yay! now you are all set ! 👍 .
 
